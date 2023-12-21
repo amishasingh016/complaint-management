@@ -8,5 +8,5 @@ Java swing
 Java AWT (Abstract Window Toolkit)
 <br>
 ## 📷 ScreenShots 
-<img src="Screenshot (118).png" width="500" height="600">
+<img src="Screenshot (118).png" width="500" height="400">
 
